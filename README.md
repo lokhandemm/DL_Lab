@@ -6,7 +6,7 @@ This project implements a **Single-Layer Perceptron** to classify binary inputs 
 ## 🚀 Implementation 
 - A **Single-Layer Perceptron (SLP)** is used for **AND, OR, NOT, NAND, and NOR gates**.
 - A **Multi-Layer Perceptron (MLP)** is used for **XOR and XNOR gates**, as they require non-linearity.
-- The model is tested and validated with all binary input combinations.
+- The model is tested and validated with all binary input combinations. 
 
 ## 📊 Truth Table Validation
 

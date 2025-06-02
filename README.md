@@ -1,5 +1,5 @@
 # Single-Layer Perceptron for Logic Gates 
-                       
+                        
 ## 📌 Overview      
 This project implements a **Single-Layer Perceptron** to classify binary inputs using a **Step Activation Function**. It is used to simulate basic logic gates (**AND, OR, NOT, NAND, NOR**) and extended with a **Multi-Layer Perceptron (MLP)** to handle **XOR and XNOR**, which are non-linearly separable.  
 
